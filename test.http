@@ -1,0 +1,10 @@
+post  http://localhost:4000/registration
+Content-Type: application/json
+
+{
+    "firstName" : "tawar",
+    "lastName" : "tawar900",
+    "email" : "tawar900@gmail.com",
+
+    "password" : "tawar900@g",
+}
