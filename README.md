@@ -1,4 +1,4 @@
-# reactogram link : https://reactogram-mern-app.netlify.app/login
+# reactogram link : https://reactogram-mern-app.netlify.app
 
 ![Screenshot (1020)](https://user-images.githubusercontent.com/78145883/218735409-299038cc-a556-4dd7-902d-fec12b321d58.png)
 ![Screenshot (1021)](https://user-images.githubusercontent.com/78145883/218735420-a02b3fa0-b7d5-4fda-8615-3690a45d2b3b.png)
